@@ -1,1 +1,3 @@
 This is nav bar file
+
+Added to avoid fast forwarding
